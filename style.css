@@ -1,0 +1,17 @@
+header {
+    background-color: #1f2937;
+   display: flex;
+   justify-content: space-between;
+}
+
+.header-logo {
+font-size: 24px;
+color: #F9faf8;
+}
+
+.header-links a {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+    display: flex;
+}
